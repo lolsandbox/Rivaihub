@@ -4,4 +4,6 @@ if PlaceId == 2753915549 or PlaceId == 4442272183 or PlaceId == 7449423635 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/lolsandbox/bloxfruits/main/ri-vai.lua"))()
 if PlaceId == 10464237910 or game.PlaceId == 13373351184 then
     loadstring(game:HttpGet('https://raw.githubusercontent.com/lolsandbox/DragonSea/main/Dragon%20Sea.txt'))()
+if PlaceId == 3440262694 then 
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/lolsandbox/AirportTycoon/main/Airport%20Tycoon.txt'))()
 end
