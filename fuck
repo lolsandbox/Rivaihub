@@ -5,5 +5,7 @@ if PlaceId == 2753915549 or PlaceId == 4442272183 or PlaceId == 7449423635 then
 if PlaceId == 10464237910 or game.PlaceId == 13373351184 then
     loadstring(game:HttpGet('https://raw.githubusercontent.com/lolsandbox/DragonSea/main/Dragon%20Sea.txt'))()
 if PlaceId == 3440262694 then 
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/lolsandbox/AirportTycoon/main/AirportTycoonv2.txt'))()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/lolsandbox/sourcebloxfrutis/main/thieunangvclgamenhayfifaiv1'))()
+if PlaceId == 6516141723 or game PlaceId == 6839171747 then
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/lolsandbox/Door/main/door%20series%20x.lua'))()
 end
