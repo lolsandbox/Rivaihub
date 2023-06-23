@@ -9,5 +9,7 @@ if PlaceId == 3440262694 then
 if PlaceId == 6516141723 or game PlaceId == 6839171747 then
     loadstring(game:HttpGet('https://raw.githubusercontent.com/lolsandbox/Door/main/door%20series%20x.lua'))()
 if PlaceId == 537413528 then 
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/lolsandbox/BuildABoatForTreasure/main/BuildABoatForTreasure.lua'))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/TranPhatAn/Rivai-hub/main/BuildABoatForTreasure%2C
+
+%20true.lua"))()
 end
