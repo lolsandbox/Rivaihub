@@ -1,7 +1,7 @@
-repeat wait() until game:IsLoaded()
+repeat wait() until game:IsLoaded() and game.Players.LocalPlayer
 game.StarterGui:SetCore("SendNotification", {
                             Title = "Notification", 
-                            Text = "Thank for use rivai hub " ,
+                            Text = "Thank for use  Rivai Hub" ,
                             Icon = "https://create.roblox.com/dashboard/creations/marketplace/13818720844/configure",
                             Duration = 3.5
                         })    
@@ -24,5 +24,5 @@ end
 if PlaceId == 1730877806 then
     loadstring(game:HttpGet('https://raw.githubusercontent.com/lolsandbox/GPO/main/GPO.lua'))()
 end
- else 
+else 
  game.Players.LocalPlayer:Kick("Game Not Support")
