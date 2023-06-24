@@ -21,8 +21,5 @@ end
 if PlaceId == 537413528 then 
     loadstring(game:HttpGet('https://raw.githubusercontent.com/lolsandbox/BuildABoatForTreasure/main/BuildABoatForTreasure.lua'))()
 end
-if PlaceId == 1730877806 then
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/lolsandbox/GPO/main/GPO.lua'))()
-end
 else 
  game.Players.LocalPlayer:Kick("Game Not Support")
