@@ -1,7 +1,7 @@
 repeat wait() until game:IsLoaded()
 local PlaceId = game.PlaceId
 if PlaceId == 2753915549 or PlaceId == 4442272183 or PlaceId == 7449423635 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/lolsandbox/bloxfruits/main/ri-vai.lua"))()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/TranPhatAn/Rivai-hub/main/BloxFruitsRivaiHub.source'))()
 end
 if PlaceId == 10464237910 or game.PlaceId == 13373351184 then
     loadstring(game:HttpGet('https://raw.githubusercontent.com/lolsandbox/DragonSea/main/Dragon%20Sea.txt'))()
@@ -14,4 +14,7 @@ if PlaceId == 6516141723 or game PlaceId == 6839171747 then
 end
 if PlaceId == 537413528 then 
     loadstring(game:HttpGet('https://raw.githubusercontent.com/lolsandbox/BuildABoatForTreasure/main/BuildABoatForTreasure.lua'))()
+end
+if PlaceId == 1730877806 then
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/lolsandbox/GPO/main/GPO.lua'))()
 end
